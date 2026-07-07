@@ -1,2 +1,2 @@
 # Ataan-VBA
-Curso completo de VBA - 50 lições
+Curso do Iniciante ao intermediário ( 25 lições) 
